@@ -1,7 +1,7 @@
 ![header](https://github.com/xMintTea/XMintTea/blob/main/assets/minttea.png)
 
 ## I'm beginner programmer and developer
-FFD43B
+
 ## Languages
 #
 ![Python](https://img.shields.io/badge/-Python-202020?style=for-the-badge&logo=Python&logoColor=FFD43B) ![HTML](https://img.shields.io/badge/-HTML-202020?style=for-the-badge&logo=html5&logoColor=FF5733) ![CSS](https://img.shields.io/badge/-CSS-202020?style=for-the-badge&logo=css3&logoColor=2B56FF) ![JS](https://img.shields.io/badge/-JavaScript-202020?style=for-the-badge&logo=javascript&logoColor=f0db4f)
