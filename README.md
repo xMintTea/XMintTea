@@ -6,6 +6,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-202020?style=for-the-badge&logo=Python&logoColor=FFD43B) ![HTML](https://img.shields.io/badge/-HTML-202020?style=for-the-badge&logo=html5&logoColor=FF5733) ![CSS](https://img.shields.io/badge/-CSS-202020?style=for-the-badge&logo=css3&logoColor=2B56FF) ![JS](https://img.shields.io/badge/-JavaScript-202020?style=for-the-badge&logo=javascript&logoColor=f0db4f)
 
+## Tools
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[visualstudiocode].svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[pycharm].svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[sublimetext].svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[eclipseide].svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[intellijidea].svg" />
 
 ## Follow me
 
