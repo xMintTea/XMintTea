@@ -1,3 +1,7 @@
+<html>
+<head>
+</head>
+<body>
 <p style="text-align: center;"><img src="assets\minttea.png" width="50%"></p>
 
 <h1 style="text-align: center;">I'm<br> beginner programmer and developer</h1>
@@ -67,6 +71,8 @@ justify-content: center;
 </div>
 
 <h1 style="text-align: center;">Git Stats</h1>
+</body>
+</html>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xMintTea&show_icons=true&theme=dracula&)](https://github.com/anuraghazra/github-readme-stats)
 
