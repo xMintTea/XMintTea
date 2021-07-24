@@ -1,21 +1,76 @@
-![header](https://github.com/xMintTea/XMintTea/blob/main/assets/minttea.png)
+<p style="text-align: center;"><img src="assets\minttea.png" width="50%"></p>
 
-## I'm beginner programmer and developer
+<h1 style="text-align: center;">I'm<br> beginner programmer and developer</h1>
 
-## Languages
+<h2 align="center">Languages</h2>
+<div style="border: 2px solid #101010;
+border-radius: 5px;
+margin: 5px;
+padding: 5px;
+background-color: #202020;
+position: reletive;
+display: flex;
+aling-items: center;
+justify-content: center;">
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 
-![Python](https://img.shields.io/badge/-Python-202020?style=for-the-badge&logo=Python&logoColor=FFD43B) ![HTML](https://img.shields.io/badge/-HTML-202020?style=for-the-badge&logo=html5&logoColor=FF5733) ![CSS](https://img.shields.io/badge/-CSS-202020?style=for-the-badge&logo=css3&logoColor=2B56FF) ![JS](https://img.shields.io/badge/-JavaScript-202020?style=for-the-badge&logo=javascript&logoColor=f0db4f)
 
-## Tools
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[visualstudiocode].svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[pycharm].svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[sublimetext].svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[eclipseide].svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[intellijidea].svg" />
+</div>
+<br>
 
-## Follow me
+<h2 align="center">Tools</h2>
+<div style="border: 2px solid #101010;
+border-radius: 5px;
+margin: 5px;
+padding: 5px;
+background-color: #202020;
+position: reletive;
+display: flex;
+aling-items: center;
+justify-content: center;">
+<img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/>
 
+<img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+<img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+<img src="https://img.icons8.com/officel/45/000000/java-eclipse.png"/>
+<img src="https://img.icons8.com/fluent/48/000000/sublime-text.png"/>
+</div>
 
-[![VK](https://img.shields.io/badge/-VK-202020?style=for-the-badge&logo=vk)](https://vk.com/eeveewasnottaken) [![twitter](https://img.shields.io/badge/-Twitter-202020?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/MintTea2077)
+<br>
 
+<h2 style="text-align: center;">Follow me</h2>
+<div style="
+border-radius: 5px;
+margin: 5px;
+padding: 5px;
+position: reletive;
+display: flex;
+aling-items: center;
+justify-content: center;">
+<div style="border: 2px solid #101010;
+width: 100px;
+border-radius: 5px;
+margin: 5px;
+padding: 5px;
+background-color: #202020;
+position: reletive;
+display: flex;
+aling-items: center;
+justify-content: center;
+">
+<a href="https://vk.com/eeveewasnottaken" target="_blank"><img src="https://img.icons8.com/color/48/000000/vk-circled.png"/></a>
+<a href="https://twitter.com/MintTea2077" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter-circled.png"/></a>
+</div>
+</div>
 
+<h1 style="text-align: center;">Git Stats</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xMintTea&show_icons=true&theme=dracula&)](https://github.com/anuraghazra/github-readme-stats)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XMintTea&show_icons=true&theme=dracula&)](https://github.com/anuraghazra/github-readme-stats)
+
+
