@@ -45,7 +45,7 @@ justify-content: center;">
 
 <br>
 
-<h2 style="text-align: center;">Follow me</h2>
+<h2 style="text-align: center;">Social</h2>
 <div style="
 border-radius: 5px;
 margin: 5px;
