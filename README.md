@@ -2,10 +2,10 @@
 <head>
 </head>
 <body>
-<p style="text-align: center;"><img src="assets\minttea.png" width="50%"></p>
+<p align="center"><img src="assets\minttea.png" width="50%"></p>
 
-<h1 style="text-align: center;">I'm<br> beginner programmer and developer</h1>
-
+<h1 align="center">I'm<br> beginner programmer and developer</h1>
+<br><br>
 <h2 align="center">Languages</h2>
 <div style="border: 2px solid #101010;
 border-radius: 5px;
@@ -16,10 +16,10 @@ position: reletive;
 display: flex;
 aling-items: center;
 justify-content: center;">
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png">
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png">
+<img src="https://img.icons8.com/color/48/000000/css3.png">
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png">
 
 
 </div>
@@ -45,7 +45,7 @@ justify-content: center;">
 
 <br>
 
-<h2 style="text-align: center;">Social</h2>
+<h2 align="center">Social</h2>
 <div style="
 border-radius: 5px;
 margin: 5px;
@@ -70,7 +70,7 @@ justify-content: center;
 </div>
 </div>
 
-<h1 style="text-align: center;">Git Stats</h1>
+<h1 align="center">Git Stats</h1>
 </body>
 </html>
 
