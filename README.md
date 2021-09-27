@@ -2,7 +2,7 @@
 <head>
 </head>
 <body>
-<p align="center"><img src="assets\minttea.png" width="50%"></p>
+<p align="center"><img src="assets\minttea.png" width="50%" alt="My logo"></p>
 
 <h1 align="center">I'm<br> beginner programmer and developer</h1>
 <br><br>
