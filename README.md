@@ -1,7 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=xminttea&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xMintTea&show_icons=true&theme=dracula&)](https://github.com/anuraghazra/github-readme-stats)
-![CodeWarsStats](https://www.codewars.com/users/xMintTea/badges/large)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XMintTea&show_icons=true&theme=dracula&)](https://github.com/anuraghazra/github-readme-stats)[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=MintTea2077)](https://github.com/gazf/github-readme-twitter)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XMintTea&show_icons=true&theme=dracula&)](https://github.com/anuraghazra/github-readme-stats)[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=MintTea2077)](https://github.com/gazf/github-readme-twitter)![CodeWarsStats](https://www.codewars.com/users/xMintTea/badges/large)
 
 -------
 
